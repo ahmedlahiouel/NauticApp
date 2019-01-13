@@ -35,4 +35,4 @@ http://127.0.0.1:8000/Nautic/1 + dans le body
 -GET:Récupération des détails d’une base nautique
 http://127.0.0.1:8000/Nautic_get/1
 
-==> Si vous voulez voir les Test et les captures c'est dans  le fichier WORD envoyé par email 
+==> Si vous voulez voir les Test et les captures c'est dans  le fichier PDF envoyé par email 
