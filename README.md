@@ -1,5 +1,6 @@
 # NauticApp
 1) telecharger Projet 
+
 2) lancer commande  php bin/console doctrine:database:create
 pour que la base soit creer
 
