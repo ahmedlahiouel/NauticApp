@@ -3,7 +3,8 @@
 2) lancer commande  php bin/console doctrine:database:create
 pour que la base soit creer
 3) Installer Postman Pour tester L'api et resultat Fournie:
-
+4)executer l'api avec : php bin/console server:run
+5) Tester Avec Postman
 -GET:Liste des bases nautiques : chaque élément de la liste ne doit contenir que son nom et sa description
 http://127.0.0.1:8000/Nautics
 
